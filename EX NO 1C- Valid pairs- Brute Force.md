@@ -1,5 +1,5 @@
 
-# EX 1B Power of 2
+# EX 1C Valid Pairs using Brute Force Approach
 ## DATE:
 ## AIM:
 To write a Java program to for given constraints.
